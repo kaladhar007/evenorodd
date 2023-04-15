@@ -1,0 +1,28 @@
+.bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+.container {
+  background-image: linear-gradient(to top, #bfe9ff, #ff6e7f);
+  border: black;
+  border-style: solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border-radius: 10px;
+}
+h1 {
+  color: black;
+}
+p {
+  color: black;
+}
+button {
+  background-color: white;
+  color: black;
+}
